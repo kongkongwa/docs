@@ -135,8 +135,9 @@ BOT会告诉你一些最常用的功能，你可以继续在群里进行测试�
 ![](../img/下载.png)
 
 ![](../img/警告ck.png)
+8、如果您用的DDBOTWsa-a036以后的版本可删除application.yaml文件可以触发扫码登录！
 
-8、确定无误后启动DDBOT即可。
+9、确定无误后启动DDBOT即可。
 
 ![](../img/错误ck.png)
 
